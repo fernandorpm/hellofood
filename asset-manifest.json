@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hellofood/static/css/main.32f2fb1e.chunk.css",
+    "main.js": "/hellofood/static/js/main.9645512e.chunk.js",
+    "main.js.map": "/hellofood/static/js/main.9645512e.chunk.js.map",
+    "runtime-main.js": "/hellofood/static/js/runtime-main.b2c5c016.js",
+    "runtime-main.js.map": "/hellofood/static/js/runtime-main.b2c5c016.js.map",
+    "static/js/2.6809f4e1.chunk.js": "/hellofood/static/js/2.6809f4e1.chunk.js",
+    "static/js/2.6809f4e1.chunk.js.map": "/hellofood/static/js/2.6809f4e1.chunk.js.map",
+    "index.html": "/hellofood/index.html",
+    "precache-manifest.ffd4e90ea2129e4ce135648ae904c0ab.js": "/hellofood/precache-manifest.ffd4e90ea2129e4ce135648ae904c0ab.js",
+    "service-worker.js": "/hellofood/service-worker.js",
+    "static/css/main.32f2fb1e.chunk.css.map": "/hellofood/static/css/main.32f2fb1e.chunk.css.map",
+    "static/js/2.6809f4e1.chunk.js.LICENSE.txt": "/hellofood/static/js/2.6809f4e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2c5c016.js",
+    "static/js/2.6809f4e1.chunk.js",
+    "static/css/main.32f2fb1e.chunk.css",
+    "static/js/main.9645512e.chunk.js"
+  ]
+}
